@@ -61,7 +61,7 @@ const Hero = () => {
           </p>
         </div>
         <a
-          href="/my-portfolio/ilodigwe-chinaza-tech-cv-2022.pdf"
+          href="/nii_michael/TETTEH-MICHAEL-CV.pdf"
           className="hero-sub-1-resume"
           download
         >
@@ -88,7 +88,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="hero-sub-2">
-        <img src="/my-portfolio/memoji.png" alt="memoji_avatar" />
+        <img src="/nii_michael/memoji.png" alt="memoji_avatar" />
       </div>
     </div>
   );
